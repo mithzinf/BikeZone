@@ -1,5 +1,5 @@
 
-const API_KEY = 'gwPJ1caaVMawpqTElNnvyCGTm%2FHVjczmbWF%2FqpMDcf1lXT6zDz5TO32ZAhl4w6jyg11nsUte%2FAGWyyLNnKMZ9w%3D%3D'
+const API_KEY = 'gwPJ1caaVMawpqTElNnvyCGTm%2FHVjczmbWF%2FqpMDcf1lXT6zDz5TO32ZAhl4w6jyg11nsUte%2FAGWyyLNnKMZ9w%3D%3D';
 
 async function getData() {
     //url을 먼저 선언하는 이유 : 백엔드에 데이터를 요청할 때 url을 통해 요청할 수 있다.
